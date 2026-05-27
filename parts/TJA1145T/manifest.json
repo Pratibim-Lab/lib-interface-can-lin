@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/TJA1145T:TJA1145T",
+  "name": "TJA1145T",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/TJA1145T.kicad_sym",
+  "description": "High-speed CAN transceiver for partial networking, SOIC-14",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/TJA1145.pdf",
+  "keywords": "CAN FD High Speed CAN Transceiver Sleep VIO Partial Networking SPI",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/TJA1145T/",
+  "part_path": "parts/TJA1145T",
+  "symbol_file": "parts/TJA1145T/TJA1145T.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:45.284Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/TCAN1043xDxQ1:TCAN1043xDxQ1",
+  "name": "TCAN1043xDxQ1",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/TCAN1043xDxQ1.kicad_sym",
+  "description": "High-speed CAN-FD Transceiver with Sleep Mode, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tcan1043-q1.pdf",
+  "keywords": "CAN FD High Speed CAN Transceiver Sleep VIO",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/TCAN1043xDxQ1/",
+  "part_path": "parts/TCAN1043xDxQ1",
+  "symbol_file": "parts/TCAN1043xDxQ1/TCAN1043xDxQ1.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.915Z"
+}

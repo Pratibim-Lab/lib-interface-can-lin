@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/MCP251863T-E-9PX:MCP251863T-E-9PX",
+  "name": "MCP251863T-E-9PX",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/MCP251863T-E-9PX.kicad_sym",
+  "description": "External CAN FD Controller with Integrated Transceiver, VQFN-28",
+  "datasheet": "https://cz.mouser.com/datasheet/2/268/MCP251863_External_CAN_FD_Controller_with_Integrat-3442054.pdf",
+  "keywords": "CAN FD Controller Transceiver SPI",
+  "footprint": "Package_DFN_QFN:VQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/MCP251863T-E-9PX/",
+  "part_path": "parts/MCP251863T-E-9PX",
+  "symbol_file": "parts/MCP251863T-E-9PX/MCP251863T-E-9PX.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.694Z"
+}

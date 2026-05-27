@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/SIT1057TK-3:SIT1057TK-3",
+  "name": "SIT1057TK-3",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/SIT1057TK-3.kicad_sym",
+  "description": "CAN-FD Transceiver, 5Mbps, 5V supply, I/O compatible with 3.3V (VIO supply), high-speed / silent mode pin, WSON-8 / DFN-8",
+  "datasheet": "http://en.sitcores.com/uploadfile/2025/0701/20250701060510540.pdf",
+  "keywords": "CAN-transceiver SIT1057TK/3",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.2x2.15mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/SIT1057TK-3/",
+  "part_path": "parts/SIT1057TK-3",
+  "symbol_file": "parts/SIT1057TK-3/SIT1057TK-3.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.824Z"
+}

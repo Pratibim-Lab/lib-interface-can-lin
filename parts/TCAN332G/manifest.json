@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/TCAN332G:TCAN332G",
+  "name": "TCAN332G",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/TCAN332G.kicad_sym",
+  "description": "High-Speed CAN Transceiver with CAN FD, 5Mbps, 3.3V supply, SOT-23-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tcan337.pdf",
+  "keywords": "High-Speed CAN Transceiver",
+  "footprint": "",
+  "extends": "TCAN332",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/TCAN332G/",
+  "part_path": "parts/TCAN332G",
+  "symbol_file": "parts/TCAN332G/TCAN332G.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.955Z"
+}

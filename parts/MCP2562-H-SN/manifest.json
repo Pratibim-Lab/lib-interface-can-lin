@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/MCP2562-H-SN:MCP2562-H-SN",
+  "name": "MCP2562-H-SN",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/MCP2562-H-SN.kicad_sym",
+  "description": "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +150C, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf",
+  "keywords": "High-Speed CAN Transceiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MCP2562-E-SN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/MCP2562-H-SN/",
+  "part_path": "parts/MCP2562-H-SN",
+  "symbol_file": "parts/MCP2562-H-SN/MCP2562-H-SN.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.792Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/SN65HVD234:SN65HVD234",
+  "name": "SN65HVD234",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/SN65HVD234.kicad_sym",
+  "description": "CAN Bus Transceiver, 3.3V, 1Mbps, Enable feature, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn65hvd234.pdf",
+  "keywords": "can transeiver ti",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/SN65HVD234/",
+  "part_path": "parts/SN65HVD234",
+  "symbol_file": "parts/SN65HVD234/SN65HVD234.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:44.859Z"
+}

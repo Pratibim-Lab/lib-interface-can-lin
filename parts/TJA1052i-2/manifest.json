@@ -1,0 +1,17 @@
+{
+  "id": "Interface_CAN_LIN/TJA1052i-2:TJA1052i-2",
+  "name": "TJA1052i-2",
+  "library": "Interface_CAN_LIN",
+  "file": "Interface_CAN_LIN.kicad_symdir/TJA1052i-2.kicad_sym",
+  "description": "Isolated CAN Transceiver 2.5kV, up to 5Mbps",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/TJA1052I.pdf",
+  "keywords": "can transceiver isolated protected",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "TJA1052i-1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-can-lin@master/parts/TJA1052i-2/",
+  "part_path": "parts/TJA1052i-2",
+  "symbol_file": "parts/TJA1052i-2/TJA1052i-2.kicad_sym",
+  "source_library": "Interface_CAN_LIN.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:45.253Z"
+}
